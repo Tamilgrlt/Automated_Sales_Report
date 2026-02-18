@@ -14,6 +14,7 @@ DURATION : 8 WEEKS
 MENTOR : NEELA SANTHOSH
 
 Project Overview
+
 The Automated Report Generation using Python project is designed to automatically analyze sales data and generate a professional report without manual effort. The system reads data from a CSV file, processes and analyzes the data using Python, creates a graphical representation of sales performance, and generates a formatted PDF report.
 This project uses Pandas for data analysis, Matplotlib for graph visualization, and ReportLab for PDF generation. It helps in reducing manual reporting time, minimizing errors, and producing consistent and accurate reports. The solution is simple, efficient, and suitable for real-world reporting applications in business and data analysis.
 
