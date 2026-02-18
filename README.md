@@ -1,5 +1,6 @@
 # Automated_Sales_Report
 Python project to generate sales report with graph and PDF
+
 COMPANY : CODTECH IT SOLUTION
 
 NAME : TAMILSELVAN G
